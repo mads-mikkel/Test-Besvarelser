@@ -1,0 +1,16 @@
+Videndel til midtvejstest
+1.	Forskellen på en variabel og en datatype er, at en variabel indeholder en værdi og den værdi har en bestemt form, det vi kalder en datatype.
+2.	Datatype identifier;
+3.	Ja
+4.	Nej
+5.	True og False
+6.	Ja en byte kan godt konverteres til en int, fordi en byte fulder kun 1B i hukommelsen og en int fylder 4B. Ja en int kan godt konverteres til en byte, men det kræver at man caster: b = (byte)i; og man husker at det kun er de 8 bits længst til højre der medtages.
+7.	ReadLine()
+8.	WriteLine(x)
+9.	If-else
+10.	While, Do-while, for løkker
+11.	int[] arr = new int[100];
+12.	for(int = 0; i < arr.Length; i++) 
+	{ 
+		Console.WriteLine( arr[i] ); 
+	}
